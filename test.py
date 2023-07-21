@@ -1,9 +1,3 @@
-### Nekoposter
-A script which sends \*cute\* nekos every hour.
-
-### Example
-See it in [test.py](./test.py)
-```py
 from neko_post import NekoPoster
 from time import sleep
 
@@ -20,9 +14,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-```
-
-### Notes
-1. It uses nekos life API, images may be copyrighted by their respective owners.
-2. `random` endpoint includes NSFW images as well.
-3. It's not always that instances uses Mastodon at the backend. Frontend and backend for Mastodon is seperated.
