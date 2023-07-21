@@ -25,4 +25,4 @@ if __name__ == "__main__":
 ### Notes
 1. It uses nekos life API, images may be copyrighted by their respective owners.
 2. `random` endpoint includes NSFW images as well.
-3. It's not always that instances uses Mastodon at the backend. Frontend and backend for Mastodon is seperated.
+3. It's not always that instances use Mastodon at the backend. Frontend and backend for Mastodon are separated.
